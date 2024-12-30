@@ -1,0 +1,43 @@
+End User License Agreement (EULA)
+
+Last updated: December 30, 2024
+
+1. Agreement
+
+By downloading, accessing, or using the Application, you agree to be bound by the terms of this End User License Agreement (EULA). If you do not agree to the terms contained in this EULA, you are not permitted to use or access the Application.
+
+2. License Grant
+
+Josh Rickert hereby grants you a non-exclusive, non-transferable, revocable license to use the Application for your use subject to the other terms of this EULA.
+
+3. Restrictions
+
+You agree not to, and you will not permit others to: a. License, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose, or otherwise commercially exploit the Application or make the platform available to any third party. b. Modify, make derivative works of, disassemble, decrypt, reverse compile, or reverse engineer any part of the Application, except to the extent applicable laws specifically prohibit such restriction. c. Remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) of Josh Rickert or its affiliates, partners, suppliers, or the licensors of the Application.
+
+4. Intellectual Property
+
+The software, the content, and all intellectual property pertaining to it — including, but not limited to, copyrights, trademarks, and patents — are owned by Josh Rickert and are protected by copyright laws and international copyright treaties.
+
+5. Termination
+
+This EULA will continue to be in effect until terminated by you or Josh Rickert. Josh Rickert may, in its sole discretion, at any time and for any or no reason, suspend or terminate this EULA with or without prior notice.
+
+This EULA will terminate immediately, without prior notice from Josh Rickert, in the event that you fail to comply with any provision of this EULA. You may also terminate this EULA by deleting the software and all copies thereof from your computer.
+
+Upon termination, you must cease all use of the software and delete all copies of the software in your possession.
+
+6. Warranties and Disclaimer
+
+The Application is provided on an "as is" and "as available" basis without any warranties, claims or representations made by Josh Rickert of any kind either expressed, implied, or statutory with respect to the software, including, but not limited to, warranties of quality, performance, non-infringement, merchantability, or fitness for use for a particular purpose. Josh Rickert does not warrant that the software will operate error-free or that the software is free of viruses or other harmful components.
+
+7. Limitation of Liability
+
+In no event shall Josh Rickert be liable to you or any third party for any damages resulting from or related to your use or inability to use the Application, whether based on warranty, contract, tort, or any other legal theory, and whether or not Josh Rickert is advised of the possibility of such damages.
+
+8. Modification
+
+Josh Rickert reserves the right, at any time, to modify, suspend, or discontinue the Application or any part thereof with or without notice. You agree that Josh Rickert will not be liable to you or to any third party for any modification, suspension, or discontinuance of the software.
+
+9. Governing Law
+
+This EULA and your use of the Application will be governed by and construed in accordance with the laws of the State of California, excluding its conflicts of law rules.
